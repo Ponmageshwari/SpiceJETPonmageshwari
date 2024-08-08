@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-08T17:37:20 IST" name="Suite" finished-at="2024-08-08T17:45:30 IST" duration-ms="490364">
+    <groups>
+    </groups>
+    <test started-at="2024-08-08T17:37:20 IST" name="Test" finished-at="2024-08-08T17:45:30 IST" duration-ms="490364">
+      <class name="test.TC004_RoundTrip">
+        <test-method is-config="true" signature="launchingBrowser(java.lang.String,java.lang.String)[pri:0, instance:test.TC004_RoundTrip@79207381]" started-at="2024-08-08T17:42:44 IST" name="launchingBrowser" finished-at="2024-08-08T17:43:33 IST" duration-ms="48106" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.spicejet.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method signature="Test1()[pri:0, instance:test.TC004_RoundTrip@79207381]" started-at="2024-08-08T17:43:33 IST" name="Test1" finished-at="2024-08-08T17:44:53 IST" duration-ms="80218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- test.TC004_RoundTrip -->
+      <class name="test.TC002_Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TC002_Login@50378a4]" started-at="2024-08-08T17:37:20 IST" name="setup" finished-at="2024-08-08T17:37:20 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="launchingBrowser(java.lang.String,java.lang.String)[pri:0, instance:test.TC002_Login@50378a4]" started-at="2024-08-08T17:37:49 IST" name="launchingBrowser" finished-at="2024-08-08T17:38:05 IST" duration-ms="15447" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.spicejet.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method signature="Test1(java.lang.String,java.lang.String)[pri:0, instance:test.TC002_Login@50378a4]" started-at="2024-08-08T17:38:05 IST" name="Test1" data-provider="getData" finished-at="2024-08-08T17:38:09 IST" duration-ms="4394" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7708741751]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rashmi@77]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="launchingBrowser(java.lang.String,java.lang.String)[pri:0, instance:test.TC002_Login@50378a4]" started-at="2024-08-08T17:38:09 IST" name="launchingBrowser" finished-at="2024-08-08T17:38:34 IST" duration-ms="24586" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.spicejet.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method signature="Test1(java.lang.String,java.lang.String)[pri:0, instance:test.TC002_Login@50378a4]" started-at="2024-08-08T17:38:34 IST" name="Test1" data-provider="getData" finished-at="2024-08-08T17:38:39 IST" duration-ms="5128" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9634567890]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="launchingBrowser(java.lang.String,java.lang.String)[pri:0, instance:test.TC002_Login@50378a4]" started-at="2024-08-08T17:38:39 IST" name="launchingBrowser" finished-at="2024-08-08T17:39:05 IST" duration-ms="26538" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.spicejet.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method signature="Test1(java.lang.String,java.lang.String)[pri:0, instance:test.TC002_Login@50378a4]" started-at="2024-08-08T17:39:05 IST" name="Test1" data-provider="getData" finished-at="2024-08-08T17:39:09 IST" duration-ms="3713" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rashmi@77]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="launchingBrowser(java.lang.String,java.lang.String)[pri:0, instance:test.TC002_Login@50378a4]" started-at="2024-08-08T17:39:09 IST" name="launchingBrowser" finished-at="2024-08-08T17:39:49 IST" duration-ms="39415" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.spicejet.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method signature="Test1(java.lang.String,java.lang.String)[pri:0, instance:test.TC002_Login@50378a4]" started-at="2024-08-08T17:39:49 IST" name="Test1" data-provider="getData" finished-at="2024-08-08T17:39:54 IST" duration-ms="5237" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- test.TC002_Login -->
+      <class name="test.TC005_FieldCheck">
+        <test-method is-config="true" signature="launchingBrowser(java.lang.String,java.lang.String)[pri:0, instance:test.TC005_FieldCheck@491b9b8]" started-at="2024-08-08T17:44:55 IST" name="launchingBrowser" finished-at="2024-08-08T17:45:26 IST" duration-ms="31163" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.spicejet.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method signature="Test1()[pri:0, instance:test.TC005_FieldCheck@491b9b8]" started-at="2024-08-08T17:45:26 IST" name="Test1" finished-at="2024-08-08T17:45:30 IST" duration-ms="4277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- test.TC005_FieldCheck -->
+      <class name="test.TC003_OnewayFlight">
+        <test-method is-config="true" signature="launchingBrowser(java.lang.String,java.lang.String)[pri:0, instance:test.TC003_OnewayFlight@60f00693]" started-at="2024-08-08T17:39:54 IST" name="launchingBrowser" finished-at="2024-08-08T17:40:40 IST" duration-ms="46070" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.spicejet.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method signature="Test1()[pri:0, instance:test.TC003_OnewayFlight@60f00693]" started-at="2024-08-08T17:40:40 IST" name="Test1" finished-at="2024-08-08T17:42:44 IST" duration-ms="123857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- test.TC003_OnewayFlight -->
+      <class name="test.TC001_signup">
+        <test-method is-config="true" signature="launchingBrowser(java.lang.String,java.lang.String)[pri:0, instance:test.TC001_signup@5965d37]" started-at="2024-08-08T17:37:20 IST" name="launchingBrowser" finished-at="2024-08-08T17:37:36 IST" duration-ms="15913" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.spicejet.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method signature="Test1()[pri:0, instance:test.TC001_signup@5965d37]" started-at="2024-08-08T17:37:36 IST" name="Test1" finished-at="2024-08-08T17:37:48 IST" duration-ms="12169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- test.TC001_signup -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
